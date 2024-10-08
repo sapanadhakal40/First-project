@@ -1,4 +1,4 @@
 # First-project
-This is my first project.
+Ensimainen projekti.
 <br>
 Author-Sapana Dhakal
